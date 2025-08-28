@@ -6,3 +6,5 @@ Solaris foi um trabalho desenvolvido em colaboração com 3 colegas minhas, para
 nele, produzimos um site fictício para um jogo já publicado (https://anasanandreas.itch.io/solaris), além de outros materiais que auxiliam em atingir o foco do nosso trabalho: auxiliar na educação de crianças neurodivergentes. 
 </br></br>
 o site em si inclui informações sobre o projeto, o time de produção, e um sistema CRUD (quesito obrigatório do TCC), majoritariamente concluído com as linguagens html, css, php e js.
+<br><br>
+<img width="1000"  alt="banner" src="https://github.com/user-attachments/assets/1dc0f609-3a00-4450-b606-657f7cf23928" />
